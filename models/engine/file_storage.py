@@ -13,7 +13,7 @@ class FileStorage:
         if cls:
             temp = {}
             for key, val in self.__objects.items():
-                if key.split('.')[0] == cls.__name__:
+                if cls == val.__class__ or cls == val.__class__.__name__:
                     temp[key] = val
             return temp
         return FileStorage.__objects
@@ -64,3 +64,7 @@ class FileStorage:
             self.save()
         else:
             pass
+
+    def close(self):
+        """call reload() method for deserializing the JSON file to objects"""
+        self.reload()
