@@ -3,24 +3,28 @@
     "id": "500e50f7-18d0-402f-a3bf-5d46fa87eea9",
     "created_at": "2024-09-25T22:34:08.905124",
     "updated_at": "2024-09-25T22:34:08.905145",
+    "name": "Chicago",
     "__class__": "State"
   },
   "State.500e50f7-18d0-402f-a3bf-5d46fa88eea9": {
     "id": "500e50f7-18d0-402f-a3bf-5d46fa88eea9",
     "created_at": "2024-09-25T22:37:08.905124",
     "updated_at": "2024-09-25T22:37:08.905145",
+    "name": "New York",
     "__class__": "State"
   },
   "State.536f422d-31d3-4024-bde5-a11023fc2288": {
     "id": "536f422d-31d3-4024-bde5-a11023fc2288",
     "created_at": "2024-09-25T22:42:17.442140",
     "updated_at": "2024-09-25T22:42:17.442174",
+    "name": "California",
     "__class__": "State"
   },
   "State.78bb78df-ae44-4463-8844-c3888ee4c6fe": {
     "id": "78bb78df-ae44-4463-8844-c3888ee4c6fe",
     "created_at": "2024-09-25T23:15:11.085776",
     "updated_at": "2024-09-25T23:15:11.085810",
+    "name": "California",
     "__class__": "State"
   },
   "State.964c2046-c882-4490-83e0-7d4082448d00": {
